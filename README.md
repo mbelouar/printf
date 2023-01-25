@@ -1,2 +1,1 @@
-# printf
-Alx projects - printf function
+ALX projects - printf function
